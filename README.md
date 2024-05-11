@@ -3,9 +3,11 @@
 
 OBJECTIVE:
 
-THE “FULL CART STORE” WANTS TO CREATE AN ANNUAL SALES REPORT FOR 2022. SO THAT, ROYAL STORE CAN UNDERSTAND ITS CUSTOMERS AND GROW ITS SALES IN THE YEAR 2023
+THE “ ROYAL STORE” WANTS TO CREATE AN ANNUAL SALES REPORT FOR 2022. SO THAT,
+ROYAL STORE CAN UNDERSTAND ITS CUSTOMERS AND GROW ITS SALES IN THE YEAR 2023
 
 QUESTIONS:
+
 -Compare the sales and orders using a single chart. 
 - Which month had the highest sales and orders?
 - Who made more purchases in 2022 - men or women? 
@@ -25,7 +27,9 @@ Insights:
 - Amazon, Flipkart, and Myntra are the channels that contribute the most (~80%).
 - "Sets" are the top-selling product category.
 
-Conclusion to improve "Full Cart Store" sales:
+Conclusion to improve " Royal Store" sales:
 
-To improve sales, target women customers aged (30-49) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads, offers, and coupons on Amazon, Myntra, and Flipkart. It would be best to plan any sale or offer between January to May.
+To improve sales, target women customers aged (30-49) living in Maharashtra, Karnataka,
+and Uttar Pradesh by showing ads, offers, and coupons on Amazon, Myntra, and Flipkart.
+It would be best to plan any sale or offer between January to May.
 
