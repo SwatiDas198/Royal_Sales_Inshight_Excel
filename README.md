@@ -1,4 +1,4 @@
-# Royal_Store_Sales_Inshight_Excel
+# Royal_Store_Sales_Insight_Excel
 
 
 OBJECTIVE:
